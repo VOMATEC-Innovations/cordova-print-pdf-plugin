@@ -8,7 +8,7 @@
 	<description>Cordova Print PDF Plugin</description>
 	<license>MIT</license>
 
-	<dependency id="cordova-plugin-device" url="https://github.com/apache/cordova-plugin-device.git" commit="rel/2.0.3" />
+	<dependency id="cordova-plugin-device" url="https://github.com/apache/cordova-plugin-device.git" commit="753f956da45c0e2ae362f2a854d1e2bad99182d1" />
 	<dependency id="cordova-plugin-ios-base64" url="https://github.com/VOMATEC-Innovations/cordova-plugin-ios-base64" />
 	<dependency id="cordova-plugin-file" url="https://github.com/apache/cordova-plugin-file" />
 
